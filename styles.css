@@ -44,8 +44,8 @@ footer {
 
 body {
     /* Ajouter un dégradé de couleurs pour l'arrière-plan */
-    background: linear-gradient(45deg, #2980b9, #6dd5fa, #ffffff, #6dd5fa, #2980b9);
+    background: linear-gradient(45deg, #483D8B, #483D8B, #ffffff, #483D8B, #483D8B);
     background-size: 400% 400%;
-    animation: moveBackground 15s ease infinite;
+    animation: moveBackground 12s ease infinite;
 }
 
